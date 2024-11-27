@@ -1,0 +1,5 @@
+22 long 1
+10 tall 0.45
+6 wied 0.27
+contreplaquer bouleau 
+5.4 speaker 0.245
